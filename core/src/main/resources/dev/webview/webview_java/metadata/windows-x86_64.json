@@ -1,0 +1,10 @@
+{
+  "target": "windows-x86_64",
+  "revision": "981b2e993c1f419644f72d8608b23b77eaa579ff",
+  "libraries": [
+    {
+      "path": "natives/x86_64/windows_nt/webview.dll",
+      "sha256": "9c1476fabedbcf67e4c9cb3aff74b0e80eff6c572dc050eac13eb86e744a97b2"
+    }
+  ]
+}
