@@ -1,6 +1,6 @@
 {
   "target": "macos-universal",
-  "revision": "981b2e993c1f419644f72d8608b23b77eaa579ff",
+  "revision": "bc1a6ed23b61b9233251c6e84bdf8c001e7359f0",
   "libraries": [
     {
       "path": "natives/x86_64/macos/libwebview.dylib",
